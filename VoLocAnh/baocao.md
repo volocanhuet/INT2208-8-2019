@@ -28,7 +28,7 @@
  - Kiểm thử hộp trắng đảm bảo mã nguồn không bị lỗi, build và run được.
  - Các sản phẩm cùng loại sẽ vào một danh mục chung
  - Khi ấn vào danh mục sẽ hiển thị ra sản phảm trong danh mục đó
- - Kiểm tra về giao diện khi số lượng sản phẩm lớn
+ - Kiểm tra về giao diện khi số lượng sản phẩm lớn **
 
 **7) Hướng dẫn:**
 	[(Link youtube)](https://www.youtube.com/watch?v=RzR5Amd2PEY&t=8s)
